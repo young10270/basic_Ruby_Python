@@ -12,4 +12,4 @@ elsif real_id!=in_id and real_pw==in_pw
   puts("잘못된 ID입니다.")
 else
   puts("ID와 Password를 확인하세요.")
-end
+#end
