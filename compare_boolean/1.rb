@@ -1,0 +1,9 @@
+puts(1==1)
+puts(1==2)
+puts(1>2)
+puts(1<2)
+puts(True)
+puts(False)
+a=1
+b=1
+puts(a==b)
