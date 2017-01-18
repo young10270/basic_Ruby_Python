@@ -1,0 +1,14 @@
+arr=[1,2,3,4,5,6,7]
+puts(arr.length)
+arr.push(8)
+puts(arr)
+arr.delete(7)
+puts(arr)
+arr.delete_at(0)
+puts(arr)
+al=['A','B','C','D']
+puts(al.length)
+al.push('E')
+puts(al)
+al.delete_at(3)
+puts(al)
