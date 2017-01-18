@@ -1,0 +1,6 @@
+﻿puts("\"Julie is studying\"")
+puts('\'Julie is studying\'')
+puts('\\\'escape\\\'')
+puts("hello \n world")
+puts("alert\a")
+puts('hello \n world')

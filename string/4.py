@@ -1,0 +1,6 @@
+﻿print("\"Julie is studying\"")
+print('\'Julie is studying\'')
+print('\\\'escape\\\'')
+print("hello \n world")
+print("alert\a")
+print('hello \n world')
