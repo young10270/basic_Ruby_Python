@@ -2,8 +2,10 @@ class Cal(object):
     #생성자
     #2번째 arg가 a로 가, 그래서 맨 앞에 self를 추가
     def __init__(self,a,b):
-        self.a=a
-        self.b=b
+        if isinstance(a, int)
+            self.a=a
+        if isinstance(b, int)
+            self.b=b
 
     def add(self):
         return self.a+self.b
