@@ -1,9 +1,7 @@
 class Cal
   attr_reader :a, :b
   attr_writer :a
-  rescue ExceptionName
-
-  end
+  
   #생성자
   #인스턴스가 생성될 때 꼭 실행되어야 하는 메소드
   def initialize(a, b)
